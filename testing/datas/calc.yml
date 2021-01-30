@@ -7,3 +7,16 @@ add:
     - [-1,1,0]
   ids: ['int','zero','bignum','minus','result0']
 
+Multi:
+  datas:
+    - [1,2,2]
+    - [2,3,6]
+    - [3,4,12]
+  ids: ['MultiCase1','MultiCase2','MultiCase3']
+
+Div:
+  datas:
+    - [2,1,2]
+    - [8,2,4]
+    - [9,3,3]
+  ids: ['DivCase1','DivCase2','DivCase3']
